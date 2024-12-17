@@ -1,6 +1,6 @@
 package optional;
 
-public class Exemplo_Optional {
+public class ExemploOptional {
 	public static void main(String[] args) {
 
 		String[] palavras = new String[10];

@@ -2,7 +2,7 @@ package lambda;
 import java.util.Arrays;
 import java.util.List;
 
-public class Exemplo_Lambda {
+public class ExemploLambda {
 
 	public static void main(String[] args) {
 		
